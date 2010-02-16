@@ -1,1 +1,2 @@
  * Load the policy file from disk instead of a hardcoded buffer.
+ * Add some real logging.

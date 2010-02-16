@@ -1,0 +1,8 @@
+A Flash cross-domain policy server which responds on port 843.
+
+See http://www.adobe.com/devnet/flashplayer/articles/socket_policy_files.html
+for further details.
+
+This is particularly useful if you're using Flash-based Web Socket emulations
+with the Web Socket support present in Netty.
+
